@@ -1,2 +1,1 @@
-# android_device_xiaomi_kenzo
-Kenzo device tree
+# TWRP device tree for Redmi Note 3 Snapdragon
